@@ -1,5 +1,7 @@
 Hey there. I'm Adam, a computer science senior at NYU Abu Dhabi. You'll often find me working with web technologies like React and Svelte, but I'm also comfortable diving into Rust or C++ for desktop applications when needed.  
+
 Outside of coding, I enjoy Christopher Nolan films, Dostoevsky novels, and Malcolm Gladwell's books. I'm usually listening to ambient music or Hans Zimmer while I work.  
+
 Always eager to learn and chat about tech. Feel free to reach out if you want to connect or collaborate. 
 
 
