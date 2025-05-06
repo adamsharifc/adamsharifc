@@ -4,7 +4,7 @@ Outside of coding, I enjoy Christopher Nolan films, Dostoevsky novels, and Malco
 
 Always eager to learn and chat about tech. Feel free to reach out if you want to connect or collaborate. 
 
-Portfolio at [adamsharif.com](http://adamsharif.com)
+Portfolio at [www.adamsharif.com](http://www.adamsharif.com)
 
 
 
